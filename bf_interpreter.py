@@ -46,4 +46,4 @@ def run(program):
 if __name__ == '__main__':
     # program = input()
     program = '++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.'
-    run(program)
+    run(program)  # prints "hello world"
